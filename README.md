@@ -1,0 +1,2 @@
+# Predictive-Modeling-for-Semiconductor-Yield-Using-Sensor-Data
+This project predicts semiconductor manufacturing outcomes (Pass/Fail) using machine learning. Sensor data was preprocessed by handling missing values, removing irrelevant features, applying SMOTE for imbalance, and scaling. Models like Logistic Regression, Random Forest, and SVM were trained, with Random Forest achieving best performance.
